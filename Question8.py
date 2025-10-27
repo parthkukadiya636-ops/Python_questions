@@ -1,4 +1,4 @@
-# WAP to print if the given list is palindrome or not.
+# WAP to print if the given list is palindrome or not..
 
 list1 = [1,2,5]
 list2 = [1,2,5]

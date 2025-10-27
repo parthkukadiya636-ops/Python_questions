@@ -1,4 +1,4 @@
-# WAP to check if the entere number is even or odd.
+# WAP to check if the entere number is even or odd..
 
 a =int(input("enter the number:"))
 

@@ -1,4 +1,4 @@
-# WAP to store the subject  and the marks of the student using dictionary.
+# WAP to store the subject  and the marks of the student using dictionary..
 
 student = {
     "name": "parth kukadiya",

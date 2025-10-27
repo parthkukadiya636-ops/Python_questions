@@ -1,4 +1,4 @@
-# WAP to check whether the number is multiple of 7 or not.
+# WAP to check whether the number is multiple of 7 or not..
 
 x = int(input("Enter the number:"))
 if(x%7==0):

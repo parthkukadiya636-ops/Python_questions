@@ -1,4 +1,4 @@
-# WAP to input two numbers and print True if the first number is greater than second or print False if not.
+# WAP to input two numbers and print True if the first number is greater than second or print False if not..
 
 
 x = float(input("enter the first number:"))
